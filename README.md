@@ -2,4 +2,4 @@
 
 💻 Feel free to reach out for project collaborations or hackathons!
 
-⌨️ Currently working on tpa-on-twitter (QMIND), Tutor.AI (QWeb), and a project for distributive's hackathon.
+⌨️ Currently working on tpa-on-twitter (QMIND) and Tutor.AI (QWeb).
