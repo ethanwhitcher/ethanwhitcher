@@ -3,3 +3,5 @@
 💻 Feel free to reach out for project collaborations or hackathons!
 
 ⌨️ Currently working on PhotoML (Photografirst).
+
+📚 Technologies I am using right now: Java Springboot, Javascript, NodeJS (Express).
