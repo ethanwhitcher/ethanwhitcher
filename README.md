@@ -1,7 +1,7 @@
-👋 Hey, I'm Ethan! I'm currently in my 2nd year at Queen's University studying Computer Engineering. I enjoy solving real problems through software development and technology.
+👋 Hey, I'm Ethan! I'm currently in my 2nd year at Queen's University studying Computer Engineering. I enjoy solving real-world problems through software development and technology.
 
 💻 Feel free to reach out for project collaborations or hackathons!
 
-⌨️ Currently working on PhotoML (Photografirst) and a spotify playlist generator.
+⌨️ Currently working on PhotoML (Photografirst) and playlist.AI
 
-📚 Technologies I am using right now: Java Springboot, Javascript, NodeJS (Express).
+📚 Technologies I am using right now: Java Springboot, Javascript/Typescript, Spotify API, and NodeJS (Express).
