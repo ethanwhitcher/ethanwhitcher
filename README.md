@@ -2,6 +2,6 @@
 
 💻 Feel free to reach out for project collaborations or hackathons!
 
-⌨️ Currently working on PhotoML (Photografirst) and playlist.AI
+⌨️ Currently working on PhotoML (Photografirst) and Playlist.AI
 
 📚 Technologies I am using right now: Java Springboot, Javascript/Typescript, Spotify API, and NodeJS (Express).
