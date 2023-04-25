@@ -4,4 +4,4 @@
 
 ⌨️ Currently working on PhotoML (Photografirst) and Playlist.AI
 
-📚 Technologies I am using right now: Java Springboot, Javascript/Typescript, Spotify API, and NodeJS (Express).
+📚 Technologies I am using right now: Javascript/Typescript, Spotify API, and NodeJS (Express).
