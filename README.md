@@ -5,3 +5,5 @@
 ⌨️ Currently working on Playlist.AI
 
 📚 Technologies I am using right now: Javascript/Typescript, Java Spring Boot, Spotify API, and NodeJS (Express).
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanwhitcher&show_icons=true&theme=transparent)
