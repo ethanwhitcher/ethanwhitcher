@@ -4,4 +4,4 @@
 
 ⌨️ Currently working on Playlist.AI
 
-📚 Technologies I am using right now: Python, Single-spa, Javascript/Typescript, Java Spring Boot, Spotify API, and NodeJS (Express).
+📚 Technologies I am using right now: Docker, Kubernetes, Azure, Python, Single-spa, Javascript/Typescript, Java Spring Boot, NodeJS.
