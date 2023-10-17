@@ -2,6 +2,6 @@
 
 💻 Feel free to reach out for project collaborations or hackathons!
 
-⌨️ Currently working on Playlist.AI
+⌨️ Currently working on a startup
 
-📚 Technologies I am using right now: Docker, Kubernetes, Azure, Python, Single-spa, Javascript/Typescript, Java Spring Boot, NodeJS.
+📚 Technologies I am using right now: React, Express, Python, C
